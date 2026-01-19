@@ -1,7 +1,7 @@
 <p align="center">
   <img src="src/baepsae.gif" alt="pixel baepsae" width="140">
   <br/>
-  <img src="src/tech_sㅇtack.png" alt="pixel tech_stack" width="100">
+  <img src="src/tech_stack.png" alt="pixel tech_stack" width="100">
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
