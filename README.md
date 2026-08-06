@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="src/cloud_engineer.png" alt="pixel cloud_engineer" width="150">
-  <br/>
   <img src="src/baepsae.gif" alt="pixel baepsae" width="140">
   <br/>
   <img src="src/tech_stack.png" alt="pixel tech_stack" width="100">
